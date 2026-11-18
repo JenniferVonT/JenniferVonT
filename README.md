@@ -58,7 +58,7 @@ Most of my work is currently focused on **Python**, **JavaScript/TypeScript**, a
 
 - **Languages:** JavaScript, TypeScript, Python, HTML, CSS
 - **Backend:** Node.js, Express, GraphQL
-- **Frontend:** React, TypeScript
+- **Frontend:** React, Vue, TypeScript
 - **Infra/Tools:** Docker, Redis, MQTT, Terraform, Ansible, Kubernetes, MySQL, MongoDB, Postman, Apollo
 - **Focus areas:** APIs, data apps, algorithms, IoT, Android dev using Apollo.
 
