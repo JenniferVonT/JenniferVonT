@@ -64,7 +64,7 @@ Most of my work is currently focused on **Python**, **JavaScript/TypeScript**, a
 ## 📌 Featured Repositories
 
 ### 🎬🎮 Movie, Game & Data Applications
--[**FreeGamesFinder**](https://github.com/JenniferVonT/free-games-finder).
+- [**FreeGamesFinder**](https://github.com/JenniferVonT/free-games-finder).
   A frontend SPA application built on the [FreeToGame API](https://www.freetogame.com/api-doc). Search, filter, and find free-to-play computer games.
   **Main language:** TypeScript, Vue
 
