@@ -13,6 +13,7 @@ Most of my work is currently focused on **Python**, **JavaScript/TypeScript**, a
      html,
      css,
      react,
+     vue,
      typescript=ts,
      python=py,
      java,
