@@ -12,7 +12,7 @@ Most of my work is currently focused on **Python**, **JavaScript/TypeScript**, a
      nodejs,
      html,
      css,
-     react,
+     react, 
      vue,
      typescript=ts,
      python=py,
@@ -42,7 +42,7 @@ Most of my work is currently focused on **Python**, **JavaScript/TypeScript**, a
      raspberrypi,
      windows
     -->
-    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,ts,py,java,jest,mongodb,nginx,mysql,npm,openstack,apollo,ubuntu,vscode,vite,terraform,ansible,bash,docker,kubernetes,express,github,gradle,graphql,grafana,heroku,postman,raspberrypi,windows" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,vue,ts,py,java,jest,mongodb,nginx,mysql,npm,openstack,apollo,ubuntu,vscode,vite,terraform,ansible,bash,docker,kubernetes,express,github,gradle,graphql,grafana,heroku,postman,raspberrypi,windows" />
   </a>
 </p>
 
